@@ -110,37 +110,29 @@ class Contact extends Component {
                 <p className="address">
                   {name}
                   <br />
-                  {street} <br />
-                  {city}, {state} {zip}
+                  {city}, {state}
                   <br />
                   <span>{phone}</span>
                 </p>
               </div>
 
               <div className="widget widget_tweets">
-                <h4 className="widget-title">Latest Tweets</h4>
+                <h4 className="widget-title">Favorite Quotes</h4>
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida
-                      nibh vel velit auctor aliquet. Aenean sollicitudin, lorem
-                      quis bibendum auctor, nisi elit consequat ipsum
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.
                     </span>
                     <b>
-                      <a href="./">2 Days Ago</a>
+                      <a href="https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov">Fyodor Dostoevsky, The Brothers Karamazov</a>
                     </b>
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      Each time you look at a tangerine, you can see deeply into it. You can see everything in the universe in one tangerine. When you peel it and smell it, it’s wonderful. You can take your time eating a tangerine and be very happy.
                     </span>
                     <b>
-                      <a href="./">3 Days Ago</a>
+                      <a href="https://www.goodreads.com/book/show/14572.Peace_Is_Every_Step">Thich Nhat Hanh, Peace Is Every Step</a>
                     </b>
                   </li>
                 </ul>

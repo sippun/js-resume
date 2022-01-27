@@ -242,6 +242,10 @@ ul#nav li.current a { color: #fe6928; }
 #resume a, #resume a:visited  { color: #0762f9; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
+#resume p {
+   white-space: pre-wrap;
+}
+
 #resume h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
